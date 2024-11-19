@@ -6,5 +6,6 @@
   "UseCompilerFolder": true,
   "runs-on": "ubuntu-latest",
   "templateUrl": "https://github.com/businesscentralapps/tmpmhCk42-PTE@main",
-  "MicrosoftTelemetryConnectionString": ""
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "6608ec78b8cf444ac92a00b9a7cb37b01a631836"
 }
